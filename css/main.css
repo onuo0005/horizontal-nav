@@ -11,10 +11,10 @@ body {
 
 h1 {
   color: white;
-  font-family: "Bevan", serif;
+  font-family: 'Bevan', serif;
   text-align: center;
   margin: 0;
-  padding: 0.2em;
+  padding: .2em;
 }
 
 header {
@@ -32,9 +32,8 @@ header {
 
 .planets li {
   display: inline-block;
-  margin: 0.3em;
   max-width: 20em;
-  padding: 0 0 .75em 0;
+  padding: 0 0 .75em;
   border-radius: 10px;
   margin: 0;
 }
