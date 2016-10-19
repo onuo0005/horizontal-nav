@@ -1,14 +1,26 @@
 html {
   box-sizing: border-box;
-  background-color: #79756f;
+  background-color: #dbd6cf;
 
   line-height: 1.5;
+}
+
+body {
+  margin: 0;
 }
 
 h1 {
   color: white;
   font-family: 'Bevan', 'san-serif';
   text-align: center;
+  margin: 0;
+  padding: .5em;
+}
+
+header {
+  background-color: #79756f;
+  border-top: 4px solid #595652;
+  border-bottom: 4px solid #595652;
 }
 
 .planets {
